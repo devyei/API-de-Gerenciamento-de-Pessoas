@@ -3,10 +3,6 @@
 
 # API de Gerenciamento de Pessoas
 
-Eduardo Melo — 01706118
-
-Alisson Santos — 01633244
-
 ## 📄 Descrição do Projeto
 
 Esta aplicação consiste em uma API REST para o sistema de gerenciamento de pessoas de uma universidade. Tem como objetivo aplicar os conhecimentos de desenvolvimento com Spring Boot e persistência de dados com MySQL.
